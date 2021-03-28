@@ -57,3 +57,5 @@ var getRating=function () {
 
 
  document.write(getRating());
+
+ 
